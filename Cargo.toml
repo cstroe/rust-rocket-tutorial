@@ -1,0 +1,13 @@
+[package]
+name = "rust-rocket-tutorial"
+version = "0.1.0"
+authors = ["Cosmin Stroe <cosmin@mailbox.org>"]
+
+[dependencies]
+rocket = "0.3.10"
+rocket_contrib = "0.3.10"
+rocket_codegen = "0.3.10"
+serde = "1.0.53"
+serde_derive = "1.0.53"
+
+[dev-dependencies]
