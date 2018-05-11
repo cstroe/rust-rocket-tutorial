@@ -4,6 +4,8 @@ This is me messing around with [Rust](https://www.rust-lang.org) and the [Rocket
 
 ## Setup
 
+[Install Rust](https://www.rust-lang.org/en-US/install.html) if you haven't.
+
 You need Rust nightly for this project:
 
 ```
